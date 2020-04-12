@@ -80,5 +80,5 @@ io.on('connection',function(socket){
 })
 
 server.listen(6677,function(){
-    console.log('Servidor esta funcionado en http://104.248.116.17:6677');
+    console.log('Servidor esta funcionado en https://104.248.116.17:6677');
 });
